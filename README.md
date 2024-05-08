@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @mohammed, 
+# 👋 Hi, I'm @Mohammed, 
 - 💫 A student in Connected Data and Systems, with a passion for developing and creating content.
 - 👀 My goal is to pursue a career as a full-stack software engineer.
 - 🌱 I'm currently learning Salesforce and MuleSoft through my 1-year internship experience.
