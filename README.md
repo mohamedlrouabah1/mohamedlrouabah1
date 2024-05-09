@@ -1,4 +1,3 @@
-<img  align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mohamedlrouabah1.mohamedlrouabah1&query_only=true" />
 
 <div align="center">
 
@@ -8,7 +7,7 @@
 
 </h1>
 
-<h3 align="center">I'm a student in Connected Data and Systems, with a passion for developing and creating content.</h3>
+<h3 align="center">A Computer Science student, with a passion for developing and creating content.</h3>
 
 <br/>
 
