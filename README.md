@@ -1,13 +1,45 @@
-# 👋 Hi, I'm @Mohammed, 
-- 💫 A student in Connected Data and Systems, with a passion for developing and creating content.
-- 👀 My goal is to pursue a career as a full-stack software engineer.
-- 🌱 I'm currently learning Salesforce and MuleSoft through my 1-year internship experience.
-- 💞️ I'm looking to collaborate on exciting projects that challenge me and help me grow.
-- 📫 How to reach me: mohamedlrouabah@icloud.com | +33602467493
-- ⚡ Fun fact: I enjoy microsoldering electronic components in my free time.
+<img  align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mohamedlrouabah1.mohamedlrouabah1&query_only=true" />
 
-## 💻 Tech Stack:
+<div align="center">
 
+<h1 align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Mohammed!;" />
+
+</h1>
+
+<h3 align="center">I'm a student in Connected Data and Systems, with a passion for developing and creating content.</h3>
+
+<br/>
+
+<div align="center">
+
+🔭  I’m currently working on **strengthening my full-stack skills**.
+
+🌱  I’m currently learning **Salesforce and MuleSoft** through my internship.
+
+💬 Ask me about **Java, JavaScript, Python, Salesforce, MuleSoft... or anything**.
+
+⚡ Fun fact **I enjoy microsoldering electronic components in my free time**.
+
+</div>
+<div align="center"> 
+<a href="mailto:mohamedlrouabah@icloud.com">
+<img src="https://img.shields.io/badge/iCloud-333333?style=for-the-badge&logo=icloud&logoColor=black" />
+</a>
+<a href="https://linkedin.com/in/mohammed-rouabah-b476b224a" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+</a>
+<!-- Update portfolio link if available -->
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+</a>
+</div>
+<hr/>
+<h2 align="center">⚒️ Tech Stack ⚒️</h2>
+<br/>
+<div align="center">
+  
 ### Programming Languages:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -40,8 +72,12 @@
 ### Other Tools:
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![UML](https://img.shields.io/badge/-UML-D22128?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohammed-rouabah-b476b224a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
-
-# 📊 Porfolio:
+</div>
+<br/>
+<hr/>
+<div align="center">
+<h2>📊 Porfolio 📊</h2>
+<br>  
+<br/><br/><br/>
+</div>
+</div>
