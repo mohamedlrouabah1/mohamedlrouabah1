@@ -77,7 +77,7 @@
 <div align="center">
 <h2>📊 Porfolio 📊</h2>
 <br>  
-  In construction... Here a previous of a personal app, That i'm working on : <a href="https://mohamedlrouabah1.github.io">AppConnect!</a>
+  In construction... <a href="https://mohamedlrouabah1.github.io/Portfolio/">Porfolio!</a>
 <br/><br/><br/>
 </div>
 </div>
