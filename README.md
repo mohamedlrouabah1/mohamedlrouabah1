@@ -26,11 +26,11 @@
 <a href="mailto:mohamedlrouabah@icloud.com">
 <img src="https://img.shields.io/badge/iCloud-333333?style=for-the-badge&logo=icloud&logoColor=black" />
 </a>
-<a href="https://linkedin.com/in/mohammed-rouabah-b476b224a" target="_blank">
+<a href="https://linkedin.com/in/mohammed-rouabah" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
 </a>
 <!-- Update portfolio link if available -->
-<a href="#" target="_blank">
+<a href="https://mohamedlrouabah1.github.io/Portfolio/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
 </a>
 </div>
