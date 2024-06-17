@@ -75,9 +75,7 @@
 <br/>
 <hr/>
 <div align="center">
-<h2>📊 Porfolio 📊</h2>
-<br>  
-  In construction... <a href="https://mohamedlrouabah1.github.io/Portfolio/">Porfolio!</a>
-<br/><br/><br/>
+<h2><a href="https://mohamedlrouabah1.github.io/Portfolio/">📊 Porfolio 📊</a></h2>
+<br/><br/>
 </div>
 </div>
